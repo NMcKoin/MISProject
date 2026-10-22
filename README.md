@@ -35,7 +35,8 @@ Target Feature
 Survived
 0 = Did Not Survive
 1 = Survived
-Data Preparation
+
+## Data Preparation
 The following cleaning steps were performed:
 
 Removed Cabin due to a high number of missing values
@@ -56,11 +57,11 @@ Age distribution
 Correlation matrix
 Feature selection using SelectKBest
 Machine Learning Models
-Models evaluated may include:
+
+## Models evaluated include:
 
 K-Nearest Neighbors (KNN)
 Logistic Regression
-Evaluation Metrics
 
 
 ## Models are evaluated using:
@@ -69,7 +70,9 @@ Accuracy
 Confusion Matrix
 Classification Report
 Feature Importance
-Technologies Used
+
+
+## Technologies Used
 Python
 Pandas
 NumPy
